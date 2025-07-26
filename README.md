@@ -429,10 +429,9 @@ SOFTWARE.
 
 | Channel | Link | Best For |
 |---------|------|----------|
-| **📧 Email** | [ritika.bisht.dev@gmail.com](mailto:ritika.bisht.dev@gmail.com) | General questions, collaboration |
+| **📧 Email** | [ritika.bisht.dev@gmail.com](mailto:bisht.ritika19200@gmail.com) | General questions, collaboration |
 | **🐛 GitHub Issues** | [Report Issues](https://github.com/ritika-bisht-19/pdf-merger-tool/issues) | Bug reports, feature requests |
-| **💼 LinkedIn** | [Ritika Bisht](https://linkedin.com/in/ritika-bisht-19) | Professional networking |
-| **🐦 Twitter** | [@ritika_bisht_19](https://twitter.com/ritika_bisht_19) | Quick updates, announcements |
+| **💼 LinkedIn** | [Ritika Bisht](www.linkedin.com/in/ritika-bisht-7a4b54361) | Professional networking |
 
 ### 🆘 Getting Help
 
